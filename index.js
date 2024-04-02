@@ -5,20 +5,20 @@ const headers = {
 }
 
 const SESSION_PAYLOAD = {
-  "challengeTypes": ["assist", "characterIntro", "characterMatch", "characterPuzzle", "characterSelect", "characterTrace", "completeReverseTranslation", "definition", "dialogue", "form", "freeResponse", "gapFill", "judge", "listen", "listenComplete", "listenMatch", "match", "name", "listenComprehension", "listenIsolation", "listenTap", "partialListen", "partialReverseTranslate", "patternTapComplete", "readComprehension", "select", "selectPronunciation", "selectTranscription", "syllableTap", "syllableListenTap", "speak", "tapCloze", "tapClozeTable", "tapComplete", "tapCompleteTable", "tapDescribe", "translate", "transliterate", "typeCloze", "typeClozeTable", "typeCompleteTable", "writeComprehension"],
-  "fromLanguage": "en",
-  "isFinalLevel": false,
-  "isV2": true,
-  "juicy": true,
-  "learningLanguage": "ja",
-  "smartTipsVersion": 2,
-  "isCustomIntroSkill": false,
-  "isGrammarSkill": false,
-  "levelIndex": 0,
-  "showGrammarSkillSplash": false,
-  "skillId": "060ce4633b12e01d03c5baa22fddd7ab",
-  "type": "LESSON",
-  "levelSessionIndex": 0
+"challengeTypes": ["assist", "characterIntro", "characterMatch", "characterPuzzle", "characterSelect", "characterTrace", "completeReverseTranslation", "definition", "dialogue", "form", "freeResponse", "gapFill", "judge", "listen", "listenComplete", "listenMatch", "match", "name", "listenComprehension", "listenIsolation", "listenTap", "partialListen", "partialReverseTranslate", "patternTapComplete", "readComprehension", "select", "selectPronunciation", "selectTranscription", "syllableTap", "syllableListenTap", "speak", "tapCloze", "tapClozeTable", "tapComplete", "tapCompleteTable", "tapDescribe", "translate", "transliterate", "typeCloze", "typeClozeTable", "typeCompleteTable", "writeComprehension"],
+"fromLanguage":"ru",
+"isCustomIntroSkill": false,
+"isFinalLevel": false,
+"isGrammarSkill": false,
+"isV2": true,
+"juicy": true,
+"learningLanguage": "en",
+"levelIndex": 2,
+"levelSessionIndex": 2,
+"pathExperiments": [],
+"showGrammarSkillSplash": false,
+"skillId": "a28bff9babb8d63223fbb9daf2ae968a",
+"type": "LESSON"
 };
 
 const {
